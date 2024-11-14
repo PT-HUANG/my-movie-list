@@ -7,6 +7,10 @@ A simple web application for movie fanatic
 - add movies to your favorite list
 - manage your favorite list
 
+## Screenshots
+![image](https://github.com/PT-HUANG/ac_projects/blob/main/card.png)
+![image](https://github.com/PT-HUANG/ac_projects/blob/main/list.png)
+
 ### Searching
 type the title of the movies in search bar
 ### Favorite List
