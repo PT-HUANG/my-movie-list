@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "homepage": "https://你的帳號.github.io/movie-list",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
