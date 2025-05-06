@@ -4,6 +4,6 @@
   },
   "homepage": "https://pt-huang.github.io/my-movie-list/",
   "scripts": {
-    "deploy": "gh-pages -d main"
+    "deploy": "gh-pages -d ."
   }
 }
