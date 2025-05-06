@@ -1,6 +1,8 @@
 # Movie List
 A simple web application for movie fanatic
 
+👉 [Visit now](https://pt-huang.github.io/my-movie-list/)
+
 ## Features
 - listing movies from movie api
 - searching movies by title
